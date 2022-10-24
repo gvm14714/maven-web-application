@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.238.249.240:8081/landmark/repository/Tesla-frontend/</url>
+	      <url>http://3.85.81.8:3000/repository/maven-releases2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.90.158.229:3000/repository/snapshot-repo//</url>
+	      <url>http://3.85.81.8:3000/repository/snapshot-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
